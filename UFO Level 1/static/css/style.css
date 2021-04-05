@@ -25,7 +25,7 @@ body {
   bottom: 0;
   left: 0;
   min-height: 100px;
-  background: #4e5d6c;
+  background: #75a7d8;
 }
 
 /* The code styles the text at the bottom of the footer */
@@ -35,7 +35,7 @@ body {
   bottom: 0;
   left: 0;
   padding: 5px;
-  background: #1b3146;
+  background: #162c41;
 }
 
 .navbar {
@@ -49,7 +49,7 @@ body {
   bottom: 5px;
   left: 150px;
   width: 35px;
-  color: white;
+  color: rgb(224, 178, 178);
 }
 
 /* Adding styles to the aside and filter form */
@@ -97,7 +97,7 @@ select {
   height: 550px;
   padding: 20px;
   margin: 0;
-  background: black;
+  background: rgb(12, 11, 11);
   background-image: url("../images/nasa.jpg");
   background-attachment: fixed;
   background-position: bottom center;
